@@ -40,7 +40,7 @@ function randomSelect() {
 
         setTimeout(() => {
             unHighlightTag(randomTag)
-        }, 100)
+        }, 100);
     }, 100);
 }
 
